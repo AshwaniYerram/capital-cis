@@ -1,1 +1,2 @@
-echo "Welcome on-board"`
+echo "Welcome on-board"
+echo "I am learning hot to push the code to github"`
